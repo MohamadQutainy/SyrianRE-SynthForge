@@ -11,5 +11,4 @@ build/
 temp_*.csv
 *.csv
 *.json
-*.xlsx
 .DS_Store
