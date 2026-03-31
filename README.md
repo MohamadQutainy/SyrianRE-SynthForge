@@ -37,5 +37,5 @@ Follow these steps to get the project running locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Syrian-Real-Estate-Data-Generator.git](https://github.com/YourUsername/Syrian-Real-Estate-Data-Generator.git)
-   cd Syrian-Real-Estate-Data-Generator
+git clone https://github.com/MohamadQutainy/SyrianRE-SynthForge.git
+cd SyriaForge
