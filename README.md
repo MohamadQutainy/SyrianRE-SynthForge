@@ -32,10 +32,9 @@ The system follows a modular design:
 - GPU (Optional, required for running Llama locally via Transformers).
 
 ##  Setup & Installation 🚀
-
 Follow these steps to get the project running locally:
 
 1. **Clone the repository:**
    ```bash
-git clone https://github.com/MohamadQutainy/SyrianRE-SynthForge.git
-cd SyriaForge
+   git clone https://github.com/MohamadQutainy/SyrianRE-SynthForge.git
+   cd SyrianRE-SynthForge
