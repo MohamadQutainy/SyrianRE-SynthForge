@@ -38,3 +38,6 @@ Follow these steps to get the project running locally:
    ```bash
    git clone https://github.com/MohamadQutainy/SyrianRE-SynthForge.git
    cd SyrianRE-SynthForge
+##  Demo 📸
+
+![SyrianRE-SynthForge Demo](assets/demo.png)
