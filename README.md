@@ -41,3 +41,6 @@ Follow these steps to get the project running locally:
 ##  Demo 📸
 
 ![SyrianRE-SynthForge Demo](assets/demo.png)
+##  Sample Output 📊
+
+Check the [`examples/`](examples/) folder for real generated data samples.
