@@ -6,7 +6,7 @@ A sophisticated multi-model framework designed to generate high-quality, structu
 In many emerging markets, real-world data for training Machine Learning models is either private, fragmented, or unstructured. This project provides a scalable solution by leveraging Large Language Models (LLMs) to generate realistic, diverse, and structured real estate listings (Apartments, Land, Commercial) specifically for Syrian cities like Damascus, Aleppo, Homs, and more.
 
 ##  Key Features ✨
-- **Multi-Model Support:** Seamless integration with **OpenAI (GPT-4o/o1)**, **Anthropic (Claude 3.5)**, and local deployment via **HuggingFace/Ollama (Llama 3.2-3B)**.
+- **Multi-Model Support:** Works with OpenAI **(GPT-4o , 5.2)**, Anthropic **(Claude Sonnet 4.6 )**, and local **(LLaMA 4,3)** models  enabling both cloud and privacy-first setups.
 - **Structured Output:** Guaranteed JSON, CSV, and XLSX formats for easy integration into SQL/NoSQL databases or downstream RAG pipelines.
 - **Localized Context:** Includes deep knowledge of Syrian neighborhoods (e.g., Malki, Kafr Souseh, Dummar), local currency fluctuations (SYP/USD exchange rates), and regional property features.
 - **Dynamic Configuration:** Extensible pools for cities, property types, features, and price ranges.
